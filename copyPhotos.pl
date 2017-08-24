@@ -13,7 +13,7 @@ main();
 
 sub main{
 
-	do copyConfirm;
+	do copyConfirm();
 	
 	if ($flag = 1) {
 	
